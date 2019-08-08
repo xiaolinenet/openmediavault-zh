@@ -1,23 +1,23 @@
-# -*- mode: makefile; coding: utf-8 -*-
-#
-# This file is part of OpenMediaVault.
-#
-# @license   http://www.gnu.org/licenses/gpl.html GPL Version 3
-# @author    Volker Theile <volker.theile@openmediavault.org>
-# @copyright Copyright (c) 2009-2019 Volker Theile
-#
-# OpenMediaVault is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# any later version.
-#
-# OpenMediaVault is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with OpenMediaVault. If not, see <http://www.gnu.org/licenses/>.
+#  -  *  -  mode：makefile; 编码：utf-8  -  *  - 
+# 
+# 此文件是OpenMediaVault的一部分。
+# 
+#  @license http://www.gnu.org/licenses/gpl.html GPL版本3
+#  @author Volker Theile <volker.theile@openmediavault.org>
+#  @copyright版权所有（c）2009-2019 Volker Theile
+# 
+#  OpenMediaVault是免费软件：您可以重新分配和/或修改
+# 根据发布的GNU通用公共许可证的条款
+# 自由软件基金会，许可证的第3版，或
+# 任何更高版本。
+# 
+#  OpenMediaVault分布在希望这将是有益的，
+# 但没有任何保证; 甚至没有暗示的保证
+# 适应性或特定用途的适用性。见
+#  GNU通用公共许可证的更多细节。
+# 
+# 您应该已收到GNU通用公共许可证的副本
+# 以及OpenMediaVault。如果没有，请参阅<http://www.gnu.org/licenses/>。
 
 NUM_PROCESSORS := $(shell nproc)
 
